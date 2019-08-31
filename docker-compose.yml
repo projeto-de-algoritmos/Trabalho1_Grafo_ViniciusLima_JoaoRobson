@@ -1,0 +1,10 @@
+version: "3"
+
+services:
+
+  notebook:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    volumes:
+      - "./:/home"
