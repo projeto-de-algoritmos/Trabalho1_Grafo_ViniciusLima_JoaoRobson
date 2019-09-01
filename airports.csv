@@ -5551,7 +5551,7 @@ airport_id,name,city,country,iata,icao,lat,long,altitude,timezone,dst,tz_olson_f
 7379,Tenente Lund Pressoto Airport,Franca,Brazil,FRC,SIMK,-20.592199,-47.3829,3292,-3,S,America/Sao_Paulo,airport,OurAirports
 7380,Dourados Airport,Dourados,Brazil,DOU,SSDO,-22.2019,-54.926601,1503,-4,S,America/Campo_Grande,airport,OurAirports
 7381,Lábrea Airport,Labrea,Brazil,LBR,SWLB,-7.278969764709473,-64.76950073242188,190,-4,S,America/Boa_Vista,airport,OurAirports
-7382,Maestro Marinho Franco Airport,Rondonopolis,Brazil,ROO,SWRD,-16586,-54.7248,1467,-4,S,America/Campo_Grande,airport,OurAirports
+7382,Maestro Marinho Franco Airport,Rondonopolis,Brazil,ROO,SWRD,-16.586,-54.7248,1467,-4,S,America/Campo_Grande,airport,OurAirports
 7383,Tancredo Thomas de Faria Airport,Guarapuava,Brazil,GPB,SBGU,-25.3875007629,-51.520198822,3494,-3,S,America/Sao_Paulo,airport,OurAirports
 7384,Santa Terezinha Airport,Joacaba,Brazil,JCB,SSJA,-27.1714000702,-51.5532989502,2546,-3,S,America/Sao_Paulo,airport,OurAirports
 7394,General Leite de Castro Airport,Rio Verde,Brazil,RVD,SWLC,-17.8347225189209,-50.956111907958984,2464,-3,S,America/Sao_Paulo,airport,OurAirports
@@ -6621,7 +6621,7 @@ airport_id,name,city,country,iata,icao,lat,long,altitude,timezone,dst,tz_olson_f
 9768,Tingo Maria Airport,Tingo Maria,Peru,TGI,SPGM,-9.133000373840332,-75.94999694824219,2010,-5,N,America/Lima,airport,OurAirports
 9769,Plínio Alarcom Airport,Tres Lagoas,Brazil,TJL,SSTL,-20.754199981689,-51.684200286865,1050,-4,S,America/Campo_Grande,airport,OurAirports
 9770,Zhangye Ganzhou Airport,Zhangye,China,YZY,ZLZY,38.8018989563,100.675003052,5280,8,N,Asia/Shanghai,airport,OurAirports
-9771,Cacoal Airport,Cacoal,Brazil,OAL,SSKW,-11496,-61.4508,778,-4,N,America/Boa_Vista,airport,OurAirports
+9771,Cacoal Airport,Cacoal,Brazil,OAL,SSKW,-11.496,-61.4508,778,-4,N,America/Boa_Vista,airport,OurAirports
 9772,Warren Field,Washington,United States,OCW,KOCW,35.570499420166,-77.049797058105,38,-5,A,America/New_York,airport,OurAirports
 9773,Hyde County Airport,Engelhard,United States,\N,K7W6,35.562400817871094,-75.9552001953125,8,-5,A,America/New_York,airport,OurAirports
 9774,Mocopulli Airport,Castro,Chile,MHC,SCPQ,-42.340388,-73.715693,528,-4,S,America/Santiago,airport,OurAirports
